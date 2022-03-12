@@ -6,5 +6,5 @@ class parkkralle {
         sellPrice = -1;
         illegal = false;
         edible = -1;
-        icon = "icons\parkkralle.paa";
+        icon = "icons\parkkralle.png";
     };
